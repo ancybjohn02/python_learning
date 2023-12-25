@@ -2,7 +2,7 @@
 #  they're not ignored but rather given especial treatment
 
 # it's always given right above the f(x) definition, right below f(x) name
-#  or else it's not a docstring then
+#  or else it's not a docstring 
 def cube(x):
 
     '''input a number and get its cube using this function'''
